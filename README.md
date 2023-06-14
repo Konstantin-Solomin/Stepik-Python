@@ -1,6 +1,6 @@
 # Stepik-Python
 <br>
-Здесь содержатся решения к заданиям, выполненым мной в ходе прохождения курсов <a href="https://stepik.org/course/67/syllabus">"Программирование на Python"</a> и <a href="https://stepik.org/course/512/syllabus">"Python: основы и применение"</a> от Bioinformatics Institute на учебной платформе <a href="https://stepik.org">Stepik</a>.
+Здесь содержатся решения к заданиям, выполненым мной в ходе прохождения курсов <a href="https://stepik.org/course/67/syllabus">"Программирование на Python"</a> и <a href="https://stepik.org/course/512/syllabus">"Python: основы и применение"</a> от <b>Bioinformatics Institute</b> на учебной платформе <a href="https://stepik.org">Stepik</a>.
 <br>
 Присутствуют не все задания, а только несколько наиболее интересных.
 <br>
